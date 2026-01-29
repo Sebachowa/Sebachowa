@@ -3,8 +3,9 @@
 CTO & Cofounder building AI-powered products. Full stack developer with 10+ years of experience.
 
 ## What I'm working on
-- 🤖 **Clawdbot** - Personal AI assistant
-- 💳 **Nanocredito** - Fintech startup in Brazil
+- 🤖 **Voxa** - Personal AI assistant
+- 🥋 **Matlore** - Jiu jitsu knowdledge graph & AI competition coach
+- 💳 **Nanocredito** - Fintech startup
 - 🔧 AI automation & trading tools
 
 ## Tech Stack
